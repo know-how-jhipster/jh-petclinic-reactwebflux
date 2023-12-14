@@ -33,7 +33,7 @@
     "microfrontends": [],
     "nativeLanguage": "en",
     "otherModules": [],
-    "packageName": "org.ujar.jh.petclinic.reactwebflux",
+    "packageName": "dev.knowhowto.jh.petclinic.reactwebflux",
     "pages": [],
     "prodDatabaseType": "mariadb",
     "reactive": true,
